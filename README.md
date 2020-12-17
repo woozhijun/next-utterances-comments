@@ -1,2 +1,2 @@
-# next-utterancs-comments
+# next-utterances-comments
 My blog comments
